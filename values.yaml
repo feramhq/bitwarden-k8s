@@ -5,8 +5,8 @@
 replicaCount: 1
 
 image:
-  repository: mprasil/bitwarden
-  tag: latest
+  repository: bitwardenrs/server
+  tag: 1.14.2 
   pullPolicy: IfNotPresent
 
 env:
