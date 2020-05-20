@@ -1,3 +1,5 @@
+FORK OF https://github.com/cdwv/bitwarden-k8s
+
 # bitwarden-k8s
 Helm chart for deploying [dani-garcia/bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) in Kubernetes.
 
